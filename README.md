@@ -1,6 +1,9 @@
 # Student-Survey-Application-_usingPython
 This Python script implements a simple student survey application using Tkinter. The application collects information such as full name, residency status, chosen program, and selected courses.
 
+# Landing Page: 
+<img width="476" alt="Screenshot 2024-01-04 at 4 26 58 PM" src="https://github.com/parthpatel-15/Student-Survey-Application-_usingPython/assets/79576096/e572e899-6a08-433d-b3c2-6123313de15d">
+
 # Features:
 
 - Survey Form:
